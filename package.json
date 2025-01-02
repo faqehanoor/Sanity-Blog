@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@sanity/eslint-config-studio": "^4.0.0"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "heroicons": "^2.2.0",
+    "react-simple-typewriter": "^5.0.1"
+  }
+}
